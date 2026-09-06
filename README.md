@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="https://via.placeholder.com/1200x300?text=YOUR+PROFILE+BANNER" alt="Profile Banner" width="100%" />
+  <img src="https://chatgpt.com/s/m_6a9dba2b79188191adfa5942f887be22" alt="Profile Banner" width="100%" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Mehedi Hasan</h1>
