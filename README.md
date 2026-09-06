@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="/image/banner.png" alt="Profile Banner" width="100%" />
+  <img src="./banner.png" alt="Profile Banner" width="100%" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Mehedi Hasan</h1>
