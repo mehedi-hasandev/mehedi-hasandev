@@ -51,7 +51,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" style="margin-right: 15px; border-radius: 8px;"/>
   <img src="./nextjs.svg" alt="nextjs" width="40" height="40" style="margin-right: 15px; border-radius: 8px; filter: invert(1);"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" style="margin-right: 15px; border-radius: 8px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40" style="margin-right: 15px; border-radius: 8px; filter: invert(1);"/>
+  <img src="png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo-thumbnail.svg" alt="express" width="40" height="40" style="margin-right: 15px; border-radius: 8px; filter: invert(1);"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40" style="margin-right: 15px; border-radius: 8px;"/>
 </p>
 
