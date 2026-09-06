@@ -4,13 +4,13 @@
   <img src="https://via.placeholder.com/1200x300?text=YOUR+PROFILE+BANNER" alt="Profile Banner" width="100%" />
 </div>
 
-<h1 align="center">Hi 👋, I'm [YOUR_NAME]</h1>
-<h3 align="center">[YOUR_TITLE / ROLE]</h3>
+<h1 align="center">Hi 👋, I'm Mehedi Hasan</h1>
+<h3 align="center">Full Stack Developer</h3>
 
-- 🔭 I’m currently working on **[CURRENT_PROJECT_OR_STACK]**
-- 🌱 I’m currently learning **[TECHNOLOGIES_YOU_ARE_LEARNING]**
-- 💬 Ask me about **[YOUR_SKILLS_OR_TOPICS]**
-- 📬 Feel free to reach out: **[YOUR_EMAIL_ADDRESS]**
+- 🔭 I’m currently working on Learning Full Stack Development
+- 🌱 I’m currently learning learning Js Frameworks & Librarys
+- 💬 Ask me about JavaScript, React, Node.js
+- 📬 Feel free to reach out: mdmehedihsn71@gmail.com
 
 ---
 
